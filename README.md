@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there 👋 
+### This is Another1024!
 
-<!--
-**another1024/another1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/another1024)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:another10244201@gmail.com)
 
-Here are some ideas to get you started:
+Welcome to my Github page! I am Another1024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
+#### :i`m trying:
+- iOS testing
+- iOT learing
+
+### paltform
+- Linux
+- Macos
+
+#### 🌱 zero day:
+- Some rce, Some information hijack， i cant`t publish it
+
+#### 🌱 cve list:
+- CVE-2021-30972
+- CVE-2022-32834
+- CVE-2019-8759
+
+### Say something
+- looking for some Player for SC2
+- looking for some Player for Table game
+
+
+
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
