@@ -16,7 +16,7 @@ Welcome to my Github page! I am Another1024.
 - Linux
 - Macos
 
-#### 🌱 zero day:
+####✨ zero day:
 - Some rce, Some information hijack， i cant`t publish it
 
 #### 🌱 cve list:
