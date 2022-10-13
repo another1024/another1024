@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Another1024!
+### This is Another1024`s github!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/another1024)
 [![Gmail](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/another1024)
