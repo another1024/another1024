@@ -2,7 +2,7 @@
 ### This is Another1024!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/another1024)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:another10244201@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/another1024)
 
 Welcome to my Github page! I am Another1024.
 
