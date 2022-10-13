@@ -17,7 +17,7 @@ Welcome to my Github page! I am Another1024.
 - Macos
 
 #### 📋 zero day:
-- Some rce, Some information hijack， i cant`t publish it
+- Some rce, Some information hijack， i can`t publish it
 
 #### ✨ cve list:
 - CVE-2022-32834
