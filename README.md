@@ -20,8 +20,8 @@ Welcome to my Github page! I am Another1024.
 - Some rce, Some information hijack， i cant`t publish it
 
 #### ✨ cve list:
-- CVE-2021-30972
 - CVE-2022-32834
+- CVE-2021-30972
 - CVE-2019-8759
 
 ### Say something
