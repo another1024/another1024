@@ -13,9 +13,11 @@ Welcome to my Github page! I am Another1024.
 - learing about iOT!
 - Find more CVE
 
-### paltform
-- Linux
-- Macos
+### Skill
+- iOS App reverse
+- ELF File reverse
+- Kernel Driver reverse
+- Python 
 
 #### 📋 zero day:
 - Some rce, Some information hijack,i can`t publish it
