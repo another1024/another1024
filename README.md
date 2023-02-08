@@ -31,7 +31,6 @@ Welcome to my Github page! I am Another1024.
 
 
 ### Say something
-- looking for some Player for SC2
 - looking for some Player for Table game
 
 
