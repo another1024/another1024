@@ -25,6 +25,9 @@ Welcome to my Github page! I am Another1024.
 - CVE-2022-32834
 - CVE-2021-30972
 - CVE-2019-8759
+- CVE-2022-3742
+- CVE-2022-3745
+
 
 ### Say something
 - looking for some Player for SC2
