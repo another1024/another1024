@@ -18,9 +18,13 @@ Welcome to my Github page! I am Another1024.
 - ELF File reverse
 - Kernel Driver reverse
 
-#### 📋 zero day:
-- Some rce, Some information hijack,i can`t publish it
-
+#### 📋 Some Vulnerability without CVE
+ QQmusic scheme hijack
+ Tim scheme hijack
+ QQNews scheme hijack
+ TencentDocs scheme hijack
+ Tencent video scheme hijack
+ 
 #### ✨ cve list:
 - CVE-2022-32834
 - CVE-2021-30972
