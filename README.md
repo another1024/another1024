@@ -19,11 +19,11 @@ Welcome to my Github page! I am Another1024.
 - UEFI Driver reverse
 
 #### 📋 Some Vulnerability without CVE
-- QQmusic scheme hijack
-- Tim scheme hijack
-- QQNews scheme hijack
-- TencentDocs scheme hijack
-- Tencent video scheme hijack
+- QQmusic scheme hijack and JavascriptBridge hijack
+- Tim scheme hijack and JavascriptBridge hijack
+- QQNews scheme hijack and JavascriptBridge hijack
+- TencentDocs scheme hijack and JavascriptBridge hijack
+- Tencent video scheme hijack and JavascriptBridge hijack
  
 #### ✨ cve list:
 - CVE-2022-32834
