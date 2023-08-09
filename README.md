@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Another1024.
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
 
 #### i`m trying:
 - Find more CVE
@@ -40,4 +40,3 @@ Welcome to my Github page! I am Another1024.
 
 
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
