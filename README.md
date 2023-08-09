@@ -31,6 +31,7 @@ Welcome to my Github page! I am Another1024.
 - CVE-2019-8759
 - CVE-2022-3742
 - CVE-2022-3745
+- CVE-2023-28075
 
 
 ### Say something
