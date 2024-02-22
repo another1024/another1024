@@ -35,6 +35,8 @@ Welcome to my Github page! I am Another1024.
 - CVE-2023-34349
 - CVE-2023-39536
 - CVE-2023-32469
+- CVE-2023-29495
+- CVE-2023-28722
 
 
 ### Say something
