@@ -13,10 +13,9 @@ Welcome to my Github page! I am Another1024.
 - development some tools
 
 ### Skill
-- iOS App reverse
-- ELF File reverse
-- Kernel Driver reverse
-- UEFI Driver reverse
+- 0-day vulnerability mining
+- Python, C, x86 assembly development
+- Mobile security, embedded security, network device security, boot security
 
 #### 📋 Some Vulnerability without CVE
 - QQmusic scheme hijack and JavascriptBridge hijack
@@ -38,7 +37,8 @@ Welcome to my Github page! I am Another1024.
 - CVE-2023-29495
 - CVE-2023-28722
 
-
+#### Paper
+- Black Hat 2024 Aisa Spaker
 ### Say something
 - looking for some Player for Table game
 
