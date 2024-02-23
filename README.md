@@ -38,7 +38,7 @@ Welcome to my Github page! I am Another1024.
 - CVE-2023-28722
 
 #### 📋Paper
-- Black Hat 2024 Aisa Spaker
+- Black Hat 2024 Aisa Speaker
 ### Say something
 - looking for some Player for Table game
 
