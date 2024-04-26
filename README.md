@@ -13,7 +13,7 @@ Welcome to my Github page! I am Another1024.
 - development some tools
 
 ### Skill
-- 0-day vulnerability mining
+- 0-day vulnerability hunt
 - Python, C, x86 assembly development
 - Mobile security, embedded security, network device security, boot security
 
