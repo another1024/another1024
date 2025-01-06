@@ -36,6 +36,7 @@ Welcome to my Github page! I am Another1024.
 - CVE-2023-32469
 - CVE-2023-29495
 - CVE-2023-28722
+- CVE-2023-32282
 
 #### 📋Paper
 - Black Hat 2024 Aisa Speaker
